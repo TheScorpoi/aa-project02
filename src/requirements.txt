@@ -1,1 +1,6 @@
 networkx
+prettytable
+psutil
+matplotlib
+pandas
+
